@@ -4,7 +4,7 @@ I am Valentino Filipetto, I am from Italy :it: and I work and live in Amsterdam,
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ValentinoFilipetto&theme=algolia&show_icons=true)](https://github.com/ValentinoFilipetto)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ValentinoFilipetto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **ValentinoFilipetto/ValentinoFilipetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
