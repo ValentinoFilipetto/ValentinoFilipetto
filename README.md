@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-I am Valentino Filipetto, I am from Italy :it: and I work and live in Amsterdam, Netherlands 🇳🇱 as front-end developer for [Finaps](https://finaps.nl/)
-
-## Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ValentinoFilipetto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I am Valentino Filipetto, I was born in Italy :it: and I currently live and work in Amsterdam, Netherlands 🇳🇱 as front-end developer for [Finaps](https://finaps.nl/)
 
 <!--
 **ValentinoFilipetto/ValentinoFilipetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
