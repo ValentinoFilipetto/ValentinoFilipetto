@@ -2,6 +2,9 @@
 
 I am Valentino Filipetto, I was born in Italy :it: and I currently live and work in Amsterdam, Netherlands 🇳🇱 as front-end developer for [Finaps](https://finaps.nl/)
 
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinoFilipetto&theme=radical&hide_border=true)
+
+
 <!--
 **ValentinoFilipetto/ValentinoFilipetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
