@@ -2,10 +2,10 @@
 
 I am Valentino Filipetto, I was born in Italy :it: and I currently live and work in Amsterdam, Netherlands 🇳🇱 as front-end developer for [Finaps](https://finaps.nl/)
 
-<!--
+
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinoFilipetto&theme=radical&hide_border=true)
--->
-![KfMm0pL0cwTiVEKEqW](https://github.com/ValentinoFilipetto/ValentinoFilipetto/assets/93832803/642f1f9b-fa06-49f6-81fc-8ef9c1ddbf8c)
+
+
 
 
 
