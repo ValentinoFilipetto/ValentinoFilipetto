@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Valentino Filipetto, I was born in Italy :it: and I currently live and work in Amsterdam 🇳🇱 as software developer for [Finaps](https://finaps.nl/). 
+I am Valentino Filipetto, I was born in Italy :it: and I currently live and work in Amsterdam 🇳🇱 as software developer for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm). 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ValentinoFilipetto?theme=dark&font=Crimson%20Pro"/>
