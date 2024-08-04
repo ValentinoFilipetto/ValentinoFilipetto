@@ -3,7 +3,7 @@
 I am Valentino Filipetto, I was born in Italy and I currently live in Amsterdam and work in The Hague as software developer for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm). 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ValentinoFilipetto?theme=dark&font=Crimson%20Pro"/>
+  <img src="https://leetcard.jacoblin.cool/ValentinoFilipetto?theme=dark&font=Crimson%20Pro&ext=activity"/>
 </p>
 
 
