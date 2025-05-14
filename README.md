@@ -1,7 +1,7 @@
 ### Hi there, I'm Valentino Filipetto
 
 - 🖥️ I work for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm) as software developer
-- 🇳🇱 I live in Amsterdam since August 2020
+- 🇳🇱  I live in Amsterdam since August 2020
 - ☕ I’m learning Java and Go at the moment
 - 🐦 You can follow me on Bluesky [@valentinofilipetto.bsky.social](https://bsky.app/profile/valentinofilipetto.bsky.social)
 
