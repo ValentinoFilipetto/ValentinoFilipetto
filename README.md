@@ -1,6 +1,9 @@
-## Hi there 👋
+### Hi there, I'm Valentino Filipetto
 
-I am Valentino Filipetto, I was born in Italy and I currently live in Amsterdam and work in The Hague as software developer for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm). 
+- 🖥️ I work for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm) as software developer
+- 🇳🇱 I live in Amsterdam since August 2020
+- ☕ I’m learning Java and Go at the moment
+- 🐦 You can follow me on Bluesky [@valentinofilipetto.bsky.social](https://bsky.app/profile/valentinofilipetto.bsky.social)
 
 
 
