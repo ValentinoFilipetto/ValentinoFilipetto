@@ -5,8 +5,14 @@
 - ☕ I’m learning Java and Go at the moment
 - 🐦 You can follow me on Bluesky [@valentinofilipetto.bsky.social](https://bsky.app/profile/valentinofilipetto.bsky.social)
 
+### My [Boot.dev](https://www.boot.dev/) progress
 
+- Boot.dev is a a rigorous computer science and backend engineering program
+- I finished around 20 courses and projects, and reached the highest rank on the platform, "Archmage".
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/b8a74144-c9fc-4db0-b867-7da196fcbf87/thumbnail" >
+</p>
 
 <!--
 **ValentinoFilipetto/ValentinoFilipetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
