@@ -2,10 +2,10 @@
 
 - 🖥️ I work for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm) as software developer
 - 🏡 I live in Amsterdam since August 2020
-- ☕ I’m learning Java and Go at the moment
-- 🐦 You can follow me on Bluesky [@valentinofilipetto.bsky.social](https://bsky.app/profile/valentinofilipetto.bsky.social)
+- 💪 At the moment I am learning Java (and Spring Boot) and improving my algorithms & data structures skills
+- 🐦 You can follow me on [LinkedIn](https://www.linkedin.com/in/valentino-filipetto-405b7198/).
 
-### My [Boot.dev](https://www.boot.dev/) progress
+### My [Boot.dev](https://www.boot.dev/) stats
 
 - Boot.dev is a a rigorous computer science and backend engineering program
 - I finished around 20 courses and projects, and reached the highest rank on the platform, "Archmage".
