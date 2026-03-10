@@ -13,7 +13,7 @@
 <p align="left">
   <img
     src="https://api.boot.dev/v1/users/public/b8a74144-c9fc-4db0-b867-7da196fcbf87/thumbnail"
-    width="550"
+    width="500"
     alt="Boot.dev stats"
   >
 </p>
