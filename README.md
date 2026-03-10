@@ -11,9 +11,12 @@
 - I finished around 20 courses and projects, and reached the highest rank on the platform, "Archmage".
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/b8a74144-c9fc-4db0-b867-7da196fcbf87/thumbnail" >
+  <img
+    src="https://api.boot.dev/v1/users/public/b8a74144-c9fc-4db0-b867-7da196fcbf87/thumbnail"
+    width="550"
+    alt="Boot.dev stats"
+  >
 </p>
-
 <!--
 **ValentinoFilipetto/ValentinoFilipetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
