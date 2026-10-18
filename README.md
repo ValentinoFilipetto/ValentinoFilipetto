@@ -2,7 +2,7 @@
 
 - 🖥️ I work for [Nationale-Nederlanden](https://www.nn.nl/Particulier.htm) as software developer
 - 🏡 I live in Amsterdam since August 2020
-- 💪 At the moment I am learning Java (and Spring Boot) and improving my algorithms & data structures skills
+- 💪 I am improving my algorithms & data structures skills at the moment, and working on interesting agentic AI projects
 - 🐦 You can follow me on [LinkedIn](https://www.linkedin.com/in/valentino-filipetto-405b7198/).
 
 ### My [Boot.dev](https://www.boot.dev/) stats
